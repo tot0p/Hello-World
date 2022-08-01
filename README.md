@@ -11,4 +11,4 @@ you must respect 3 rules :
 
  - create new dir with name of programming language 
  - add code file with good extension **ONLY** (for example : for a compilate language , i don't want the binary file)
- - add a `readme.md` for explain why run script and link of the language (you can see example [here]())
+ - add a `readme.md` for explain why run script and link of the language (you can see example [here](/Python/Readme.md))
