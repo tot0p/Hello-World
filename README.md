@@ -1,6 +1,6 @@
 # The aim
 
-The aim of this repo is to collect all possibility of write "hello world" in all programming language
+The aim of this repo is to collect all possibility of write "hello world" in all programming language ([on github](https://github.com/github/linguist))
 
 
 # Contributing
