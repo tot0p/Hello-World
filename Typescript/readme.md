@@ -11,11 +11,11 @@ you can found how to install Node.js at: [https://nodejs.org/en/download/](https
 for run the program, you can use the command:
 
 ```
-tsc app.ts
+tsc hello.ts
 ```
 
 and 
 
 ```
-node app.js
+node hello.js
 ```
