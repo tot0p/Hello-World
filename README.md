@@ -12,3 +12,9 @@ you must respect 3 rules :
  - create a new dir with the name of the programming language 
  - add a code file with the right extension **ONLY** (for example : for a compiled language , do not put the binary file)
  - add a `readme.md` to explain how to run the script and link of the language (you can see an example [here](/Python/Readme.md))
+
+# Thanks
+
+Thanks to all the people who already contributed!
+
+[![](https://contributors-img.web.app/image?repo=tot0p/Hello-World)](https://github.com/roadrunner-server/roadrunner/graphs/contributors)
