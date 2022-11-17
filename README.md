@@ -1,3 +1,10 @@
+
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&width=435&lines=print(%22Hello+World+!%22))
+
+</div>
+
 # The aim
 
 The aim of this repo is to collect all the possibilities to write "hello world" in all programming languages ([on github](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml))
