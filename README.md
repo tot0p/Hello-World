@@ -24,4 +24,4 @@ you must respect 3 rules :
 
 Thanks to all the people who already contributed!
 
-[![](https://contributors-img.web.app/image?repo=tot0p/Hello-World)](https://github.com/roadrunner-server/roadrunner/graphs/contributors)
+[![](https://contributors-img.web.app/image?repo=tot0p/Hello-World)](https://github.com/tot0p/Hello-World/graphs/contributors)
