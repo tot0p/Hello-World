@@ -4,7 +4,7 @@ Erlang is a programming language, supporting several paradigms: concurrent, real
 
 # run the program
 
-you need to install Scala .
+you need to install Erlang.
 
 you can found how to install Erlang at: [https://riptutorial.com/erlang/topic/4483/installation](https://riptutorial.com/erlang/topic/4483/installation)
 
