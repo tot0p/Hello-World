@@ -1,0 +1,3 @@
+import "console";
+
+console.println("Hello World!");
