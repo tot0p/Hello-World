@@ -19,7 +19,4 @@ To compile the binaries by yourself you will firstly need on of the two :
 you can use either of these to compile the .cbl file name __Higher-or-Lower.cbl__
 it will produce an executable that you will able to run on your platform and enjoy
 
-# Have Fun 😁
-## Authors
-
-- [@mkarten](https://www.github.com/mkarten)
+> Have Fun 😁
